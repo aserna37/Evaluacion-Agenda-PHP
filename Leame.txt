@@ -1,0 +1,8 @@
+﻿1. Aplicar las dependencias
+
+
+2. Aplica la base de datos y el usuario crea_usuario.js 
+user:admin
+pass:12345
+3. inicia (node server.js) corriendo en el puerto 5000
+
